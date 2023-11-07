@@ -38,4 +38,6 @@ validation.py is used for classifying input images using the trained model. To u
 3)Place the images you want to classify in the image folder within your project directory.
 4)Run the validation.py script. It will classify the input images into two folders, male and female, according to the trained model.
 
+**The folders which are required are not created in this repository.The validation.py is only useful after generating the h5 model using final.py**
+
 Feel free to customize the code to suit your specific needs. Good luck with your gender classification project!
