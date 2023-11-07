@@ -36,7 +36,7 @@ def classify_and_save_images(input_folder):
             os.rename(img_path, output_path)
 
 
-input_folder = 'D:\\Gender classification\\image\\'
+input_folder = '.\\image\\'
 
 
 classify_and_save_images(input_folder)
